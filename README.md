@@ -54,6 +54,7 @@ In this section i will define the operating voltages/currents of all components 
         
         The totale current consumption: i will consider the maximum current which is 450*5 = 2250mA = 2.25A
 
+### Maximum Voltage and Total Current: 
 So, the total current of all components are: 
  
          200mA + 7.65A + 72mA + 2.25A = 10.172A
@@ -63,6 +64,26 @@ So, the total current of all components are:
 The maximum voltage used is:
 
         12v
+
+### Life Time: 
+
+   The life time of the battery is basically can be calculated using this follow farmula:
+
+        Time = Total Battery Supply (mAH) / Total Current Consumption (mA) ; the total current is known above and the time is set by the developer 
+        
+   So, since the project is a fighter robot which means the life time of batter doesnt have to be so long and in my openioin 3 hours are enough
+   
+   Thus, the Total Battery Supply (mAH) must be:
+   
+        Total Battery Supply(mAH) = 3hours * 10172mA = 30516mAH
+
+### Main Constraints Of Chosing Battery: 
+
+From above we know that the two main constraints that must be conderated in chosing the battery are:
+
+1. The maximum voltage is: 12V
+
+2. Total Battery Supply(mAH) = 30516mAH
 
 ## (2) Charging Circuit:
 
