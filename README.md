@@ -88,11 +88,22 @@ From above we know that the two main constraints that must be conderated in chos
 
 1. The maximum voltage is: 12V
 
-2. Total Battery Supply(mAH) = 30516mAH
+2. Total Battery Supply(mAH) = 12000mAh
 
 ## The Chosen Battery:
 
+   If i want to make a battery that provide 12 voltage and 12Ah i have t2o ways to get:
+   
+   1. i will connect individual batteries to get these values
 
+
+   2. Using a existing battries:
+
+
+
+   
+   
+   
 # (2) Charging Circuit:
 
 
