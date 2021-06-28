@@ -52,7 +52,7 @@ In this section i will define the operating voltages/currents of all components 
 
         The operating current: 350-450mA 
         
-        The totale current consumption: i will consider the average current which is 400*5 = 2000mA = 2A
+        The totale current consumption: i will consider the maximum current which is 450*5 = 2250mA = 2.25A
 
 So, the total current of all components are: 
  
