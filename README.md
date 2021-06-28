@@ -92,17 +92,46 @@ From above we know that the two main constraints that must be conderated in chos
 
 ## The Chosen Battery:
 
-   If i want to make a battery that provide 12 voltage and 12Ah i have t2o ways to get:
+If i want to make a battery that provide 12 voltage and 12Ah i have two ways to get:
    
-   1. i will connect individual batteries to get these values
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 1- i will connect individual batteries to get these values
+
+I have chosen the Li-ion battery because of Li-ion batteries are able to be recharged hundreds of times and are more stable. They tend to have a higher energy density, voltage capacity and lower self-discharge rate than other rechargeable batteries. This makes for better power efficiency as a single cell has longer charge retention than other battery types. 
+
+But remember this type of battery is expensive which is the main disadvantage.
+
+In this case i will chose one of two battries 18650 - MJ1 or 18650 - 35E 
+        
+![600x601](https://user-images.githubusercontent.com/85455361/123690920-a6630f00-d85d-11eb-854b-65d425171c95.png)
+![8d00fe7c-053e-4744-993a-85cef1662b9f](https://user-images.githubusercontent.com/85455361/123690903-a19e5b00-d85d-11eb-97f4-15b1eeec260c.jpg)
 
 
-   2. Using a existing battries:
+   Each of them provides: **3.7V** and **3500mAh** for each single cell
+         
+   So to have 12 volt with 12Ah i will connect:
+         
+   following the same concept of following figure:   
+         
+![BatteriesWiredSeriesParallel](https://user-images.githubusercontent.com/85455361/123692468-83d1f580-d85f-11eb-8ad9-5b942d02c39a.jpg)
+         
+   1. Connect 4 cells in series to increase the voltage, thus will give me 4*3.7 = 14.8V
+   
+   2. Connect four of 14.8 voltage in parallel to have the mAh, thus we will have 4*3500= 14mAh; which is even more than required for 3 hours
 
-
-
+   I can use **26650A battery** as well and the arrangement would not be exactly the same  
    
    
+   ![image](https://user-images.githubusercontent.com/85455361/123694373-ef1cc700-d861-11eb-82b0-debee829d146.jpg)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 2-Using a existing battries:
+This is an easier way and it will eliminate us from making a charging circuit because it will have a charger too.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
    
 # (2) Charging Circuit:
 
