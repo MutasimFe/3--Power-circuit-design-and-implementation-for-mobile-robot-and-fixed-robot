@@ -102,7 +102,9 @@ I have chosen the Li-ion battery because of Li-ion batteries are able to be rech
 
 But remember this type of battery is expensive which is the main disadvantage.
 
-In this case i will chose one of two battries 18650 - MJ1 or 18650 - 35E 
+**But remember it's worth for all its characteristics**
+
+In this case i will chose one of two battries **18650 - MJ1** or **18650 - 35E** 
         
 ![600x601](https://user-images.githubusercontent.com/85455361/123690920-a6630f00-d85d-11eb-854b-65d425171c95.png)
 ![8d00fe7c-053e-4744-993a-85cef1662b9f](https://user-images.githubusercontent.com/85455361/123690903-a19e5b00-d85d-11eb-97f4-15b1eeec260c.jpg)
@@ -120,6 +122,9 @@ In this case i will chose one of two battries 18650 - MJ1 or 18650 - 35E
    
    2. Connect four of 14.8 voltage in parallel to have the mAh, thus we will have 4*3500= 14mAh; which is even more than required for 3 hours
 
+![circuit (3)](https://user-images.githubusercontent.com/85455361/123959515-f0133d00-d9b6-11eb-9be0-12645d81b893.png)
+
+
    I can use **26650A battery** as well and the arrangement would not be exactly the same  
    
    
@@ -134,6 +139,9 @@ This is an easier way and it will eliminate us from making a charging circuit be
 
    
 # (2) Charging Circuit:
+
+
+![Uploading circuit (2).png…]()
 
 
 
