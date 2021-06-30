@@ -140,10 +140,36 @@ This is an easier way and it will eliminate us from making a charging circuit be
    
 # (2) Charging Circuit:
 
+## Diagram 
 
-![Uploading circuit (2).png…]()
+I designed the charging circuit ass following figure
+
+but sadly I am not familiar with the advanced simulation platforms and the available simulation platforms are not supporting all equipment so I used the Circuit Diagram platform for drawing the electrical circuit, and when I get familiar with the advanced platform I will the connection to make sure that the circuit is working successfully. 
 
 
+![circuit (2)](https://user-images.githubusercontent.com/85455361/123962467-2acaa480-d9ba-11eb-8f68-84e18a19c22c.png)
+
+## Notes and Explanation The Diagram
+
+note* the description would be from left to right
+
+1. Transformer
+
+   I used a transformer to reduce the voltage into a usable voltage.
+
+![transformer](https://user-images.githubusercontent.com/85455361/123964352-01127d00-d9bc-11eb-8394-447e8230a0cd.png)
+
+2. Full-Wave Recifier
+
+   Then I used a full-wave rectifier to convert the AC voltage into DC voltage, and also it is following with 10mH inductor and 100μF for smoothing the DC voltage, and lastly the 22V Zener diode is used for voltage regulation.
+
+![download](https://user-images.githubusercontent.com/85455361/123964634-4c2c9000-d9bc-11eb-97d5-3f683fef7135.png)
+
+
+![Zener](https://user-images.githubusercontent.com/85455361/123964508-2606f000-d9bc-11eb-84fd-19a0c91872db.gif)
+
+
+4. 
 
 # (3) Full Circuit 
 
