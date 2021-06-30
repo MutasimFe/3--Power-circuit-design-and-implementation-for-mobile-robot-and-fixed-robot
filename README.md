@@ -169,7 +169,7 @@ note* the description would be from left to right
 
   Which is the voltage regulator giving a constant dc voltage; it works by changing the resistors to have the wanter voltage.
   
-![download (1)](https://user-images.githubusercontent.com/85455361/123966182-d45f6500-d9bd-11eb-9572-0948a33c0a2c.png)
+   ![05d98d87588bfbdc0d2b2fca8df16f0f](https://user-images.githubusercontent.com/85455361/123970088-80567f80-d9c1-11eb-9f62-f03fd34e50cc.png)
 
   The diodes are mostly for protections
   
