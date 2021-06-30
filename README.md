@@ -182,9 +182,20 @@ note* the description would be from left to right
 
 # (3) Full Circuit 
 
+In connection, I only added a voltage regulator since the voltage of the battery is 14.8v to make it 12v which is the maximum voltage of dc motors. However, it can be controlled by the potentiometer.
+
+![Second Task - Motor drive design and implementation for two-wheel robot base (4)](https://user-images.githubusercontent.com/85455361/123978349-77b57780-d9c8-11eb-802d-6453c7839f0c.png)
+
+## Important Notes!
+
+1. The connection above is to have the general idea of connection 
+
+2. There is no LM371 voltage regulator in TINKERCAD so i used the LM7805 just to show the idea.
+
+3. Same for battries 
+        
 
 
-# Suggest an Extra Idea/Notes:
     
 
 
