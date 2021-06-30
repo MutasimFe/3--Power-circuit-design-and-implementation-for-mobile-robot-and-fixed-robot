@@ -1,5 +1,5 @@
 // c++
-// DC motors controlled by potentiometer 
+// The code is same as the previous task
 
 //inputs of the two motors
 int DcMotorA1=5;
