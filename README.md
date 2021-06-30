@@ -121,8 +121,10 @@ In this case i will chose one of two battries **18650 - MJ1** or **18650 - 35E**
    1. Connect 4 cells in series to increase the voltage, thus will give me 4*3.7 = 14.8V
    
    2. Connect four of 14.8 voltage in parallel to have the mAh, thus we will have 4*3500= 14mAh; which is even more than required for 3 hours
-
-![circuit (3)](https://user-images.githubusercontent.com/85455361/123959515-f0133d00-d9b6-11eb-9be0-12645d81b893.png)
+   
+   The following figure is the connection of battries.
+   
+   ![circuit (3)](https://user-images.githubusercontent.com/85455361/123959515-f0133d00-d9b6-11eb-9be0-12645d81b893.png)
 
 
    I can use **26650A battery** as well and the arrangement would not be exactly the same  
