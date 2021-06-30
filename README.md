@@ -192,10 +192,9 @@ In connection, I only added a voltage regulator since the voltage of the battery
 
 2. There is no LM371 voltage regulator in TINKERCAD so i used the LM7805 just to show the idea.
 
-3. Same for battries 
+3. Same for battries there is no li-ion battries.
         
+4. The connection is for connecting DC motors with the battries, but the designed battries are done to serve all components in the fighter robot.
 
-
+5. The battery is supplying 12 volt for the circkuit but i can use resistor to control the voltages for each components.
     
-
-
