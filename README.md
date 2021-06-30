@@ -180,7 +180,7 @@ note* the description would be from left to right
   
    ![05d98d87588bfbdc0d2b2fca8df16f0f](https://user-images.githubusercontent.com/85455361/123970088-80567f80-d9c1-11eb-9f62-f03fd34e50cc.png)
    
-   The diodes arounf this component are mostly for protections
+   The diodes around this component are mostly for protections
   
 4. Zened diodes
    
