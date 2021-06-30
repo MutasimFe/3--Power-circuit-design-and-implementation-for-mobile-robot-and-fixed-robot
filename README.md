@@ -147,7 +147,8 @@ I designed the charging circuit ass following figure
 but sadly I am not familiar with the advanced simulation platforms and the available simulation platforms are not supporting all equipment so I used the Circuit Diagram platform for drawing the electrical circuit, and when I get familiar with the advanced platform I will the connection to make sure that the circuit is working successfully. 
 
 
-![circuit (2)](https://user-images.githubusercontent.com/85455361/123962467-2acaa480-d9ba-11eb-8f68-84e18a19c22c.png)
+![circuit (2)](https://user-images.githubusercontent.com/85455361/123981936-530ecf00-d9cb-11eb-966d-8494c808a7d0.png)
+
 
 ## Notes and Explanation The Diagram
 
