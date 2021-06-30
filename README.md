@@ -163,29 +163,28 @@ note* the description would be from left to right
 1. Transformer
 
    I used a transformer to reduce the voltage into a usable voltage.
-
-![transformer](https://user-images.githubusercontent.com/85455361/123964352-01127d00-d9bc-11eb-8394-447e8230a0cd.png)
+   
+   ![transformer](https://user-images.githubusercontent.com/85455361/123964352-01127d00-d9bc-11eb-8394-447e8230a0cd.png)
 
 2. Full-Wave Recifier
 
    Then I used a full-wave rectifier to convert the AC voltage into DC voltage, and also it is following with 10mH inductor and 100μF for smoothing the DC voltage.
-
-![download](https://user-images.githubusercontent.com/85455361/123964634-4c2c9000-d9bc-11eb-97d5-3f683fef7135.png)
+   
+   ![download](https://user-images.githubusercontent.com/85455361/123964634-4c2c9000-d9bc-11eb-97d5-3f683fef7135.png)
 
 3. LM371
 
-  Which is the voltage regulator giving a constant dc voltage; it works by changing the resistors to have the wanter voltage.
+   Which is the voltage regulator giving a constant dc voltage; it works by changing the resistors to have the wanter voltage.
   
    ![05d98d87588bfbdc0d2b2fca8df16f0f](https://user-images.githubusercontent.com/85455361/123970088-80567f80-d9c1-11eb-9f62-f03fd34e50cc.png)
-
-  The diodes are mostly for protections
+   
+   The diodes arounf this component are mostly for protections
   
 4. Zened diodes
    
    Zener diodes are for protection and regulate the voltage too.
-
-    
-![Zener](https://user-images.githubusercontent.com/85455361/123964508-2606f000-d9bc-11eb-84fd-19a0c91872db.gif)
+   
+   ![Zener](https://user-images.githubusercontent.com/85455361/123964508-2606f000-d9bc-11eb-84fd-19a0c91872db.gif)
 
 # (3) Full Circuit 
 
