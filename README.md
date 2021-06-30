@@ -127,8 +127,7 @@ In this case i will chose one of two battries **18650 - MJ1** or **18650 - 35E**
    ![circuit (3)](https://user-images.githubusercontent.com/85455361/123959515-f0133d00-d9b6-11eb-9be0-12645d81b893.png)
 
 
-   I can use **26650A battery** as well and the arrangement would not be exactly the same  
-   
+   I can use **26650A battery** as well and the arrangement would not be exactly the same. But this is more expensive 
    
    ![image](https://user-images.githubusercontent.com/85455361/123694373-ef1cc700-d861-11eb-82b0-debee829d146.jpg)
 
