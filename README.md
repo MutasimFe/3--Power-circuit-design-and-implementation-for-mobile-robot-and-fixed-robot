@@ -161,15 +161,24 @@ note* the description would be from left to right
 
 2. Full-Wave Recifier
 
-   Then I used a full-wave rectifier to convert the AC voltage into DC voltage, and also it is following with 10mH inductor and 100μF for smoothing the DC voltage, and lastly the 22V Zener diode is used for voltage regulation.
+   Then I used a full-wave rectifier to convert the AC voltage into DC voltage, and also it is following with 10mH inductor and 100μF for smoothing the DC voltage.
 
 ![download](https://user-images.githubusercontent.com/85455361/123964634-4c2c9000-d9bc-11eb-97d5-3f683fef7135.png)
 
+3. LM371
 
+  Which is the voltage regulator giving a constant dc voltage; it works by changing the resistors to have the wanter voltage.
+  
+![download (1)](https://user-images.githubusercontent.com/85455361/123966182-d45f6500-d9bd-11eb-9572-0948a33c0a2c.png)
+
+  The diodes are mostly for protections
+  
+4. Zened diodes
+   
+   Zener diodes are for protection and regulate the voltage too.
+
+    
 ![Zener](https://user-images.githubusercontent.com/85455361/123964508-2606f000-d9bc-11eb-84fd-19a0c91872db.gif)
-
-
-4. 
 
 # (3) Full Circuit 
 
